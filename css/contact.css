@@ -1,0 +1,43 @@
+.header{
+    background-color: rgb(37, 10, 71);
+    color: #fff;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.header h2{
+    font-size: 50px;
+    font-weight: 800;
+    
+}
+
+.content{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.content p{
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 600;
+}
+a{
+    text-decoration: none;
+}
+h2{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.support h3{
+    font-size: 25px;
+}
+
+.support-left{
+    text-align: center;
+}
+.support-right{
+    text-align: center;
+}

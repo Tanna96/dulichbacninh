@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container{
+    
+}
+h1{
+    font-weight: 700;
+    text-align: center;
+}
+
+.image img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.content{
+    padding-top: 20px;
+    display: ;
+}
+
+.image-content{
+    
+    padding-bottom: 20px;
+}

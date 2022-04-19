@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.image{
+    background-color: #fff;
+}
+
+.image img{
+    height: 250px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.image a{
+    text-decoration: none;
+}
+
+.image a:hover{
+    color: red;
+}
+
+
+
